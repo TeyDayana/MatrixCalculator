@@ -1,0 +1,40 @@
+C:\c#\ДЗ\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.exe
+C:\c#\ДЗ\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.deps.json
+C:\c#\ДЗ\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.runtimeconfig.json
+C:\c#\ДЗ\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.runtimeconfig.dev.json
+C:\c#\ДЗ\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.dll
+C:\c#\ДЗ\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.pdb
+C:\c#\ДЗ\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.csprojAssemblyReference.cache
+C:\c#\ДЗ\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.AssemblyInfoInputs.cache
+C:\c#\ДЗ\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.AssemblyInfo.cs
+C:\c#\ДЗ\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.csproj.CoreCompileInputs.cache
+C:\c#\ДЗ\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.dll
+C:\c#\ДЗ\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.pdb
+C:\c#\ДЗ\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.genruntimeconfig.cache
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.exe
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.deps.json
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.runtimeconfig.json
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.runtimeconfig.dev.json
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.dll
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.pdb
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.csprojAssemblyReference.cache
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.AssemblyInfoInputs.cache
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.AssemblyInfo.cs
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.dll
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.pdb
+C:\Users\Reserve\Downloads\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.genruntimeconfig.cache
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.exe
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.deps.json
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.runtimeconfig.json
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.runtimeconfig.dev.json
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.dll
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\bin\Debug\netcoreapp3.1\Matrix Calculator.pdb
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.csproj.AssemblyReference.cache
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.AssemblyInfoInputs.cache
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.AssemblyInfo.cs
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.csproj.CoreCompileInputs.cache
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.dll
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.pdb
+D:\study\1\вижуал студио\с#\peer grade\1 курс 1 семестр\Matrix Calculator\Matrix Calculator\obj\Debug\netcoreapp3.1\Matrix Calculator.genruntimeconfig.cache
